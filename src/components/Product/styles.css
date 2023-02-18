@@ -1,0 +1,23 @@
+figure {
+	width: 135px;
+	padding: 1.5rem;
+
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	justify-content: center;
+
+	border-radius: 26px;
+	background-color: #fff;
+}
+
+figure img {
+	width: 100%;
+}
+
+figure figcaption {
+	color: #000;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
